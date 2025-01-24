@@ -58,5 +58,6 @@ A web app featuring QR code generation, payment confirmations, and user subscrip
 
 - **LinkedIn**: [Gaetan Ekoro](https://linkedin.com/in/gaetan-ekoro)  
 - **Twitter**: [@Gaetan5](https://x.com/Gaetan5)  
-- **Email**: ekorogaetan5@gmail.com  
+- **Email**: ekorogaetan5@gmail.com
+- **Portfolio**: [Gaetan X Ekoro](https://protfoliogx.onrender.com)
 
