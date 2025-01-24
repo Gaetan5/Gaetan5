@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Gaetan X Ekoro (Gaetan5)
+# 👋 Hi, I'm 
+# Gaetan X Ekoro (Gaetan5)
 
 ### 🚀 Back-End Developer | 🖌 Logo Designer | 🌍 Embedded Systems Innovator
 
