@@ -7,7 +7,7 @@ Welcome to my GitHub! Here, you'll find my projects spanning back-end developmen
 
 ## 🎯 About Me
 
-I am a passionate designer and developer with over **5 years of experience** in web and mobile application development. I specialize in robust back-end solutions, intuitive UI design, and embedded systems development. Additionally, I hold a **Bachelor's Degree in Electrical Engineering and Industrial Information Technology**, with **3 years' experience as an electrotechnician**, allowing me to bridge the gap between software and hardware.
+I am a passionate designer and developer with over **5 years of experience** in web and mobile application development. I specialize in robust back-end solutions, intuitive UI design, and embedded systems development. Additionally, I hold a **Bachelor&apos;s ESG-TI Degree in Electrical Engineering and Industrial Information**, with **3 years' experience as an electrotechnician**, allowing me to bridge the gap between software and hardware.
 
 My love for technology and my dream of revolutionizing the tech world led me to work on several impactful projects, including **geolocation and security systems for medicalized electric cars** and **online ticket payment platforms**. 
 
