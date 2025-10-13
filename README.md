@@ -119,6 +119,45 @@
 
 ---
 
+## 🌟 Autres projets open source
+
+<details>
+  <summary>Voir tous mes projets GitHub par techno</summary>
+
+### Python / FastAPI / Backend
+- <a href="https://github.com/Gaetan5/Full-stack-">Full-stack-</a>  
+  <sub>Application multi-usages (complexe)</sub>
+- <a href="https://github.com/Gaetan5/billeteriElectro_Qrcode">billeteriElectro_Qrcode</a>  
+  <sub>Billetterie électronique QR</sub>
+- <a href="https://github.com/Gaetan5/qrcode-invitation-">qrcode-invitation-</a>  
+  <sub>Enregistrement invités + QR code</sub>
+- <a href="https://github.com/Gaetan5/sync_woocommerce_odoo">sync_woocommerce_odoo</a>  
+  <sub>Sync WooCommerce ↔ Odoo (FastAPI, PostgreSQL)</sub>
+
+### TypeScript / React / Next.js / Frontend
+- <a href="https://github.com/Gaetan5/protfolio">protfolio</a>  
+  <sub>Portfolio Next.js/Tailwind</sub>
+
+### IoT & Systèmes embarqués
+- <a href="https://github.com/Gaetan5/car_dashboard4">car_dashboard4</a>  
+  <sub>Dashboard embarqué véhicule médicalisé</sub>
+- <a href="https://github.com/Gaetan5/car_dashboard5-main">car_dashboard5-main</a>  
+  <sub>Évolution dashboard connecté</sub>
+
+### Web/Mobile/Hybride
+- <a href="https://github.com/Gaetan5/Interact-Livraison">Interact-Livraison</a>  
+  <sub>App livraison produits</sub>
+- <a href="https://github.com/Gaetan5/MobilAppCollect">MobilAppCollect</a>  
+  <sub>Collecte de données mobile</sub>
+
+### R&D, Expérimentation, Géolocalisation
+- <a href="https://github.com/Gaetan5/Geoloooge">Geoloooge</a>  
+  <sub>Géolocalisation, capteurs, carto</sub>
+
+</details>
+
+---
+
 ## 📊 Stats & Activity
 
 <p align="center">
