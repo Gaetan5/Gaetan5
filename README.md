@@ -1,13 +1,46 @@
-## 📊 Stats & Activity
+# README
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaetan5&show_icons=true&theme=default)
+## 🌟 Autres projets open source
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaetan5&layout=horizontal&theme=default)
+### TypeScript/Next.js Projects
+- ekose-rx_Project
+- Ekose-Rx_AppsWeb
+- protfolio
+- BizIGen
+- Nadticket-
+- kadef_shopping
+- CoStudia-server
+- ekoserx
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gaetan5&theme=default)
+### Python/FastAPI Projects
+- Full-stack-
+- sync_woocommerce_odoo
+- megaI-micro_service
+- billeteriElectro_Qrcode
+- qrcode-invitation-
+- odoo-docker
+- odoo_woocommerce_sync
+- YouDI-desktop
 
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=Gaetan5&theme=default)
+### Java/Spring Boot Projects
+- PaiementService
+- PrescriptionSevice
 
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gaetan5&theme=default)
+### Frontend Projects
+- MobilAppCollect
 
-Check out my stats above!
+### IoT Projects
+- car_dashboard4
+- car_dashboard5
+- car_dashboard5-main
+
+### Géolocalisation Projects
+- Geoloooge
+
+### Logistique Projects
+- Interact-Livraison
+
+### Other Projects
+- Diaa-Electrics
+- desktop-tutorial
+- Git-rip
